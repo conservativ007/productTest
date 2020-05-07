@@ -7,7 +7,7 @@
 
     public function __construct(){
       $this->categories = [
-		1 => [
+		 1 => [
 			'name' => 'Фрукты',
 			'products' => [
 				1 => [
